@@ -15,8 +15,8 @@ Hello There, This is <em>Shivam Singhal</em>.<br><br>I a student at Vellore Insi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CasualClicks&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CasualClicks&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
