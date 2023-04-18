@@ -1,5 +1,5 @@
 # 🧔🏽 About Me:
-Hello There, This is <em>Shivam Singhal</em>.<br><br>I am a student at Vellore Insititute of Technology, Bhopal, and currently pursuing Bachelor's Degree in CSE.<br> My Field of interset includes:<br>Machine Learning<br>Full Stack Web Development<br>Game Development
+Hello There, This is <em>Shivam Singhal</em>.<br><br>I am a student at Vellore Insititute of Technology, Bhopal, and currently pursuing Bachelor's Degree in CSE.<br> My Field of interset includes:<br><ul><li>Machine Learning</li><br><li>Full Stack Web Development</li><br><li>Game Development</li></ul>
 
 
 ## 🌐 Socials:
