@@ -1,5 +1,5 @@
 # 🧔🏽 About Me:
-Hello There, This is Shivam Singhal.<br><br>I a student at Vellore Insititute of Technology, Bhopal and currently pursuing Bachelor's Degree in CSE.<br>
+Hello There, This is <em>Shivam Singhal</em>.<br><br>I a student at Vellore Insititute of Technology, Bhopal and currently pursuing Bachelor's Degree in CSE.<br>
 
 
 ## 🌐 Socials:
