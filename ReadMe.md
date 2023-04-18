@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello There, This is Shivam.<br><br>I am currently pursuing my Bachelor Degree at VIT Bhopal, India.<br>
+# 🧔🏽 About Me:
+Hello There, This is Shivam Singhal.<br><br>I a student at Vellore Insititute of Technology, Bhopal and currently pursuing Bachelor's Degree in CSE.<br>
 
 
 ## 🌐 Socials:
