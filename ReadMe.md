@@ -5,26 +5,9 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
-
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
-
 - :briefcase: Ex SDE @ [Pine Labs Pvt Ltd](https://www.pinelabs.com/)
 - :computer: Unity `Game Developer`
 - :technologist: I love using Software as a solution for every `Problem`.
@@ -35,13 +18,14 @@
 - :boom: You can visit [MY WEBSITE](https://www.officialshivam.in/).
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 <p align="center">
 	<a href="https://leetcode.com/u/CasualClicks/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://www.geeksforgeeks.org/user/casualclicks/" ><img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GFG" width="50" height="50">
 </p>
 
+		
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/shivams2022/">
@@ -58,8 +42,8 @@
   </a>
 </p>
 
-## 🛠️ My Skills
 
+## 🛠️ My Skills
 ### Programming Languages
 <p align="center">
   <a href="https://www.java.com" target="_blank">
